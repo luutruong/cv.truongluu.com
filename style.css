@@ -265,3 +265,20 @@ small {
 	font-weight: 600;
 	margin-bottom: 5px;
 }
+.downloadThisCV {
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	padding: 10px;
+	background: #fcfcfc;
+	color: #607D8B;
+	text-decoration: none;
+	border-radius: 3px;
+	height: 38px;
+	box-sizing: border-box;
+	line-height: 20px;
+}
+.downloadThisCV:hover {
+	background: #2196F3;
+	color: #FFF;
+}
