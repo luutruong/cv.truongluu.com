@@ -258,5 +258,10 @@ small {
 .inline dd {
 	display: inline-block;
 }
-
-
+.jobPropList>li {
+	margin-bottom: 10px;
+}
+.jobSectionTitle {
+	font-weight: 600;
+	margin-bottom: 5px;
+}
